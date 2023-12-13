@@ -1,7 +1,7 @@
 //
 //  ficheInformative.swift
 //  HandiCross
-//
+// Fait par Akram
 //  Created by Apprenant83 on 29/11/2023.
 //
 

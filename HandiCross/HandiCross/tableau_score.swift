@@ -1,7 +1,7 @@
 //
 //  tableau_score.swift
 //  HandiCross
-// occuper par filip
+// Fait par Filip
 //  Created by Apprenant83 on 29/11/2023.
 // 
 

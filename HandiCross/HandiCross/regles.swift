@@ -1,14 +1,7 @@
 //
-//  Regle.swift
-//  HandiCross
-//
-//  Created by apprenant67 on 01/12/2023.
-//
-
-//
 //  regles.swift
 //  HandiCross
-//
+// Fait par MC
 //  Created by Apprenant83 on 29/11/2023.
 //
 

@@ -1,7 +1,7 @@
 //
 //  structures.swift
 //  HandiCross
-//
+// Fait par Filip
 //  Created by Apprenant83 on 04/12/2023.
 //
 

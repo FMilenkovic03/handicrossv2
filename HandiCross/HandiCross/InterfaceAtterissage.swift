@@ -1,7 +1,7 @@
 //
 //  InterfaceAtterissage.swift
 //  HandiCross
-// filip s'en occupe
+// Fait par Filip
 //  Created by Apprenant83 on 29/11/2023.
 //
 
