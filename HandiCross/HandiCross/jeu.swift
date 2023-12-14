@@ -136,6 +136,7 @@ struct jeu: View {
                 
                 Text("Philosophe de l’école stoïcienne. Dramaturge et homme d’Etat romain.")
                     .padding()
+                    .font(.custom("helvetica", size: 20))
                     .background(.black)
                     .foregroundStyle(.white)
                     .offset(y:100)
